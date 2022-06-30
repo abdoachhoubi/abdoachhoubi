@@ -1,25 +1,39 @@
 <div align="center">
-<h2> Hi There, welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://hshnode.com/fullStackRacc" target="_blank">
+<img src=https://img.shields.io/badge/hshnode-%2300acee.svg?&style=for-the-badge&logo=hshnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+</a>
+<br />
+<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/small" alt="Codewars Badge">
 </div>
 
-<br />
-
 <div align="center">
+<h2> Hi There, welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<br />
+Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+<br />
 
 Please feel free to clone/fork projects, raise issues and submit pool requests if you think something could be better.<br />
 Ask me anything [here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new) or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
-<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="abdoachhoubi's Github Stats">
+<br />
 
 **Happy Coding!** 😊
 
 </div>
 
-<br />
 <br />
 
 ## About me
@@ -31,10 +45,31 @@ Currently learning: [Ruby on Rails](https://rubyonrails.org/)
 
 ## Tech Stack
 
-| <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>         | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>         | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>   | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>           | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>       | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>  | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="svelte"></a>         | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a>       | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>     | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphcms.svg" alt="graphcms"></a>   | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>          | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a> |
-| <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>       | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>           | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a> | <a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img height="30" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a> |                                                                                                                                                                                             |                                                                                                                                                                                      |
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: auto; grid-gap: 10px;">
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/svelte.svg" alt="svelte"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphcms.svg" alt="graphcms"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
+<a href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
+</div>
+<br />
 
 ## Social Accounts
 
