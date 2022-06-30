@@ -21,6 +21,8 @@
 <br />
 
 I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+<br />
+
 I'm currently based in [Ben Guerir, Morocco](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378).
 
 <br />
@@ -37,12 +39,6 @@ Ask me anything [here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new) 
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&hide_border=true&layout=compact&theme=dark" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdoachhoubi)](https://git.io/streak-stats)
-
-<br />
 <br />
 <br />
 
