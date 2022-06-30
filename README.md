@@ -83,3 +83,12 @@ Ask me anything [here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new) 
 <a margin="10" href="https://www.linkedin.com/in/abdoachhoubi" target="_blank"><img margin="10px" height="50" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 <br />
+
+<div align="center">
+
+## Latest Blog Posts
+
+- [Advanced JavaScript Course Notes pt.2](https://achhoubiplus.hashnode.dev/js-notes-2)
+- [Advanced JavaScript Course Notes pt.1](https://achhoubiplus.hashnode.dev/js-notes-1)
+- [Stop using CSS and start using SASS!](https://achhoubiplus.hashnode.dev/sass)
+</div>
