@@ -71,12 +71,12 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
 <a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
+<a margin="10" href="https://www.ruby-lang.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/ruby.svg" alt="ruby"></a>
 <a margin="10" href="https://www.jetbrains.com/youtrack/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/yourtrack.svg" alt="yourtrack"></a>
 <br />
 <br />
 <a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sanity.svg" alt="sanity"></a>
-<a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
+<a margin="10" href="https://www.rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 </div>
 <br />
