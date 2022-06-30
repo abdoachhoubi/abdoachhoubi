@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h2> Hi There, welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
 
 I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
@@ -94,6 +94,6 @@ Ask me anything [here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new) 
 <a href="https://achhoubiplus.hashnode.dev/js-notes-1" target="_blank"><img width="80%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650212088986%2FSouwgiSjK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes ppart 1"></a>
 <br />
 <br />
-<a href="https://achhoubiplus.hashnode.dev/js-notes-1" target="_blank"><img width="80%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650212088986%2FSouwgiSjK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes ppart 1"></a>
+<a href="https://achhoubiplus.hashnode.dev/sass" target="_blank"><img width="80%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650148500660%2FMxfhBewFy.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Stop using CSS and start using SASS!"></a>
 
 </div>
