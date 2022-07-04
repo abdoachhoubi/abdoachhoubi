@@ -87,9 +87,6 @@ Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new
 
 ## Latest Blog Posts
 <a href="https://achhoubiplus.hashnode.dev/js-notes-2" target="_blank"><img width="40%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650256399208%2FYmEEqvK4x.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes part 2"></a>
-<br />
-<br />
-`   `
 <a href="https://achhoubiplus.hashnode.dev/js-notes-1" target="_blank"><img width="40%" src="https://achhoubiplus.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1650212088986%2FSouwgiSjK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Advanced JavaScript Course Notes ppart 1"></a>
 <br />
 <br />
