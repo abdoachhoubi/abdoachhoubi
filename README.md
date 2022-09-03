@@ -21,13 +21,15 @@
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Software Engineering Student at <a href="https://1337.ma">UM6P - 1337FIL</a>. I am also a Full-Stack Developer with +2 yrs of hands-on experience Designing and Developing solutions using various tools and programming languages.
+<br />
+[![aachhoub's 42 stats](https://badge.mediaplus.ma/black/aachhoub)](https://github.com/oakoudad/badge42)
 <br />
 
 I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
+I love learning new techs and using new tools. I also challenge myself everyday to get better at something.
 <br />
 <br />
 
