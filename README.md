@@ -23,7 +23,7 @@
 
 I'm a Software Engineering Student at <a href="https://1337.ma">UM6P - 1337FIL</a>.
 <br />
-I am also a Full-Stack Developer with +2 yrs of hands-on experience Designing and Developing solutions using various tools and programming languages.
+I'm also a Full-Stack Developer with +2 yrs of hands-on experience Designing and Developing solutions using various tools and programming languages.
 <br />
 <br />
 [![aachhoub's 42 stats](https://badge.mediaplus.ma/black/aachhoub)](https://github.com/oakoudad/badge42)
