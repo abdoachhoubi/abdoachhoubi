@@ -18,7 +18,7 @@
 <br />
 <br />
 
-I am currently pursuing a degree in Software Engineering at <a href="https://1337.ma">UM6P - 1337FIL</a>L. Additionally, I possess over two years of practical experience as a Full-Stack Developer, during which I have designed and developed solutions utilizing a diverse range of programming languages and tools.
+I am currently pursuing a degree in IT Architecture at <a href="https://1337.ma">UM6P - 1337FIL</a>. Additionally, I possess over two years of practical experience as a Full-Stack Developer, during which I have designed and developed solutions utilizing a diverse range of programming languages and tools.
 
 I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
 
@@ -32,12 +32,11 @@ I welcome and encourage the act of cloning or forking of projects, as well as ra
 <br />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)
+
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A)
 
 <br />
 </div>
-
-<div align="center">
 
 ## Tech Stack
 
@@ -71,5 +70,3 @@ I welcome and encourage the act of cloning or forking of projects, as well as ra
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
