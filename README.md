@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
+<img width="100%" alt="Developer Illustration" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/bluesky.gif"/>
 <br />
 <br />
 <h2>Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
@@ -18,9 +18,11 @@
 <br />
 <br />
 
+[![astro's 1337 stats](https://badge.mediaplus.ma/darkblue/aachhoub)](https://github.com/oakoudad/badge42)
+
 I am currently pursuing a degree in IT Architecture at <a href="https://1337.ma">UM6P - 1337FIL</a>. Additionally, I possess over two years of practical experience as a Full-Stack Developer, during which I have designed and developed solutions utilizing a diverse range of programming languages and tools.
 
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[Casablanca, Morocco.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://maps.app.goo.gl/DR5fTT6GTNuXsSfD7))**
 
 <br />
 I possess a deep passion for acquiring knowledge on emerging technologies and leveraging innovative tools. Furthermore, I consistently strive to improve my skill set by setting daily challenges for myself.
